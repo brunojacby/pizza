@@ -1,0 +1,20 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*= General =================== */
+
+/** General >> Menu item 32 menu link **/
+#menu-item-32 .menu-link:hover {
+	color: white !important;
+}
+
+/** General >> Menu item 32 **/
+#menu-item-32 {
+	background-color: orange !important;
+}
+
+/** General >> Content **/
+#content {
+	
+}
+

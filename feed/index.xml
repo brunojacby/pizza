@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Pizza Avenidas Novas</title>
+	<atom:link href="http://github.com/brunojacby/pizza/feed/" rel="self" type="application/rss+xml" />
+	<link>http://github.com/brunojacby/pizza</link>
+	<description>Comida italiana</description>
+	<lastBuildDate>Sat, 04 Feb 2023 21:37:38 +0000</lastBuildDate>
+	<language>pt-PT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>http://github.com/brunojacby/pizza/wp-content/uploads/2023/01/logo-Copia.png</url>
+	<title>Pizza Avenidas Novas</title>
+	<link>http://github.com/brunojacby/pizza</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Almoço Executivo</title>
+		<link>http://github.com/brunojacby/pizza/almoco-executivo/</link>
+					<comments>http://github.com/brunojacby/pizza/almoco-executivo/#respond</comments>
+		
+		<dc:creator><![CDATA[brunopizza]]></dc:creator>
+		<pubDate>Sat, 04 Feb 2023 21:28:58 +0000</pubDate>
+				<category><![CDATA[Notícias]]></category>
+		<guid isPermaLink="false">http://github.com/brunojacby/pizza/?p=151</guid>
+
+					<description><![CDATA[O almoço executivo na nossa pizzaria com comida italiana é uma opção perfeita para aqueles que procuram um momento de descanso durante o dia. Com um menu variado e saboroso, oferecemos as melhores opções de massas, pizzas e saladas, todas preparadas com ingredientes frescos e de qualidade. Além disso, não poderíamos deixar de mencionar a &#8230;<p class="read-more"> <a class="" href="http://github.com/brunojacby/pizza/almoco-executivo/"> <span class="screen-reader-text">Almoço Executivo</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p class="has-drop-cap has-medium-font-size">O almoço executivo na nossa pizzaria com comida italiana é uma opção perfeita para aqueles que procuram um momento de descanso durante o dia. Com um menu variado e saboroso, oferecemos as melhores opções de massas, pizzas e saladas, todas preparadas com ingredientes frescos e de qualidade.</p>
+
+
+
+<p class="has-medium-font-size">Além disso, não poderíamos deixar de mencionar a nossa seleção de vinhos, que acompanham perfeitamente os pratos e tornam o almoço ainda mais especial. Temos uma ampla variedade de rótulos, desde os mais clássicos até as novidades do mercado, para agradar a todos os paladares.</p>
+
+
+
+<p class="has-medium-font-size">O ambiente acolhedor e descontraído da nossa pizzaria é outro ponto de destaque. Aqui, você pode desfrutar de um almoço executivo em um local tranquilo e agradável, com atendimento personalizado e profissional.</p>
+
+
+
+<p class="has-medium-font-size">Venha experimentar o melhor da culinária italiana e desfrutar de um almoço executivo inesquecível na nossa pizzaria. Garantimos que será uma experiência única e saborosa!</p>
+
+
+					<div
+						class="wp-block-uagb-image-gallery uagb-block-6343617f    "
+						style=""
+					>
+											<div class="spectra-image-gallery spectra-image-gallery__layout--isogrid spectra-image-gallery__layout--isogrid-col-2 spectra-image-gallery__layout--isogrid-col-tab-4 spectra-image-gallery__layout--isogrid-col-mob-4">
+											<div class='spectra-image-gallery__media-wrapper--isotope'>
+							<div class='spectra-image-gallery__media-wrapper'>
+							<div class="spectra-image-gallery__media spectra-image-gallery__media--grid">
+				<img decoding="async" class="spectra-image-gallery__media-thumbnail spectra-image-gallery__media-thumbnail--grid" src="http://github.com/brunojacby/pizza/wp-content/uploads/2023/02/lasagne-g60f999c53_640-1.jpg" alt="" loading="lazy" />
+				<div class="spectra-image-gallery__media-thumbnail-blurrer"></div>
+											<div class="spectra-image-gallery__media-thumbnail-caption-wrapper spectra-image-gallery__media-thumbnail-caption-wrapper--overlay"></div>
+								</div>
+						</div>
+						</div>
+						<div class='spectra-image-gallery__media-wrapper--isotope'>
+							<div class='spectra-image-gallery__media-wrapper'>
+							<div class="spectra-image-gallery__media spectra-image-gallery__media--grid">
+				<img decoding="async" class="spectra-image-gallery__media-thumbnail spectra-image-gallery__media-thumbnail--grid" src="http://github.com/brunojacby/pizza/wp-content/uploads/2023/02/pexels-gilly-topicha-10779645-2.jpg" alt="" loading="lazy" />
+				<div class="spectra-image-gallery__media-thumbnail-blurrer"></div>
+											<div class="spectra-image-gallery__media-thumbnail-caption-wrapper spectra-image-gallery__media-thumbnail-caption-wrapper--overlay"></div>
+								</div>
+						</div>
+						</div>
+						<div class='spectra-image-gallery__media-wrapper--isotope'>
+							<div class='spectra-image-gallery__media-wrapper'>
+							<div class="spectra-image-gallery__media spectra-image-gallery__media--grid">
+				<img decoding="async" class="spectra-image-gallery__media-thumbnail spectra-image-gallery__media-thumbnail--grid" src="http://github.com/brunojacby/pizza/wp-content/uploads/2023/02/pizza-g0897b5fc1_640-1.jpg" alt="" loading="lazy" />
+				<div class="spectra-image-gallery__media-thumbnail-blurrer"></div>
+											<div class="spectra-image-gallery__media-thumbnail-caption-wrapper spectra-image-gallery__media-thumbnail-caption-wrapper--overlay"></div>
+								</div>
+						</div>
+						</div>
+						<div class='spectra-image-gallery__media-wrapper--isotope'>
+							<div class='spectra-image-gallery__media-wrapper'>
+							<div class="spectra-image-gallery__media spectra-image-gallery__media--grid">
+				<img decoding="async" class="spectra-image-gallery__media-thumbnail spectra-image-gallery__media-thumbnail--grid" src="http://github.com/brunojacby/pizza/wp-content/uploads/2023/02/nine-road-pizzeria-g6e8e15f9a_640-1.jpg" alt="" loading="lazy" />
+				<div class="spectra-image-gallery__media-thumbnail-blurrer"></div>
+											<div class="spectra-image-gallery__media-thumbnail-caption-wrapper spectra-image-gallery__media-thumbnail-caption-wrapper--overlay"></div>
+								</div>
+						</div>
+						</div>
+										</div>
+										<div class="spectra-image-gallery__control-wrapper">
+				<button data-role="none" class="spectra-image-gallery__control-arrows spectra-image-gallery__control-arrows--grid" aria-label="Prev" tabIndex="0" data-direction="Prev" disabled>
+					<svg width="20" height="20" viewBox="0 0 256 512" aria-hidden="true">
+						<path d="M31.7 239l136-136c9.4-9.4 24.6-9.4 33.9 0l22.6 22.6c9.4 9.4 9.4 24.6 0 33.9L127.9 256l96.4 96.4c9.4 9.4 9.4 24.6 0 33.9L201.7 409c-9.4 9.4-24.6 9.4-33.9 0l-136-136c-9.5-9.4-9.5-24.6-.1-34z">
+						</path>
+					</svg>
+				</button>
+				<ul class="spectra-image-gallery__control-dots">
+											<li class="spectra-image-gallery__control-dot spectra-image-gallery__control-dot--active" data-go-to="1">
+							<button></button>
+						</li>
+										</ul>
+				<button data-role="none" class="spectra-image-gallery__control-arrows spectra-image-gallery__control-arrows--grid" aria-label="Next" tabIndex="0" data-direction="Next" disabled>
+					<svg width="20" height="20" viewBox="0 0 256 512" aria-hidden="true">
+						<path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z">
+						</path>
+					</svg>
+				</button>
+			</div>
+														</div>
+				]]></content:encoded>
+					
+					<wfw:commentRss>http://github.com/brunojacby/pizza/almoco-executivo/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
